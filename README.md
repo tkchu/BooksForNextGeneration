@@ -18,7 +18,7 @@
 ### 人际交往
 
 | 书籍名称 | 豆瓣链接 | 推荐理由 |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 安慰的艺术 | https://book.douban.com/subject/20475375/ | 楚天阔 |
 | 影响力 | https://book.douban.com/subject/1786387/ | 楚天阔 |
 | 沃顿商学院最受欢迎的谈判课 | https://book.douban.com/subject/11589950/ | 楚天阔 |
@@ -26,7 +26,7 @@
 ### 社会生存
 
 | 书籍名称 | 豆瓣链接 | 推荐理由 |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 金字塔原理 | https://book.douban.com/subject/4882120/ | 楚天阔 |
 | 非暴力沟通 | https://book.douban.com/subject/3533221/ | 楚天阔 |
 | 集装箱改变世界 | https://book.douban.com/subject/2354988/ | 楚天阔 |
