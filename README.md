@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 下一代图书计划
+下一代图书计划的目标是收集一系列人生成长与社会生存过程中应该读到的好书，筛选的标准是认为自己的下一代也能读到并从中获益的书。
 
-You can use the [editor on GitHub](https://github.com/tkchu/BooksForNextGeneration/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 书籍分类
+在此将整个图书分为三个主要类别：
+- 自我认知：如何认知与调整自我，在一个人的情况下能够应用的书籍，包括自我修养、习惯养成、生活技巧等方面。
+- 人际交往：小规模人际交往，在处理2-8人小型团体中能够应用的书籍，包括情感关系、谈话沟通等方面。
+- 社会生存：现代社会生存，在处理更广的社会商业时能够应用的书籍，包括金融理财、商业贸易、天文地理等方面。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 自我认知
+<table>
+  <tr><th>书籍名称</th><th>ISBN</th><th>个人评价</th></tr>
+  <tr><td>示例</td><td>132165546</td><td>个人评价</td></tr>
+</table>
 
-### Markdown
+### 人际交往
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tkchu/BooksForNextGeneration/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 社会生存
