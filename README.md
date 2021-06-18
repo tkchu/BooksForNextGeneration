@@ -1,13 +1,11 @@
 ## 下一代图书计划
-【下一代图书计划】的希望收集一系列质量优秀的好书。筛选的标准是：
-1. 自己看过认为确实好。
+这个书单希望收集一系列质量优秀的好书。筛选的标准是：
+1. 自己完整阅读过，认为确实好。
 2. 认为自己的下一代值得一读的书。
 3. 非专业书籍，面向通用领域。
 
-### 书籍列表
+## 书籍列表
 
-| 书籍名称 | 推荐理由 |
-| --- | --- |
 1. [真实的幸福](https://book.douban.com/subject/4934733/)
 1. [一个广告人的自白](https://book.douban.com/subject/1031526/)
 1. [人生的智慧](https://book.douban.com/subject/25867570/)
@@ -30,7 +28,6 @@
 1. [从一到无穷大](https://book.douban.com/subject/1102715/)
 1. [如何阅读一本书](https://book.douban.com/subject/1013208/)
 1. [世界重启](https://book.douban.com/subject/26652354/)
-1. [沃顿商学院最受欢迎的谈判课](https://book.douban.com/subject/11589950/)
 1. [文明的冲突与世界秩序的重建](https://book.douban.com/subject/4202004/)
 1. [我不知道该说什么，关于死亡还是爱情](https://book.douban.com/subject/25884880/)
 1. [别独自用餐](https://book.douban.com/subject/5344908/)
