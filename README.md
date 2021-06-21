@@ -34,12 +34,12 @@
 1. [黑客与画家](https://book.douban.com/subject/6021440/)
 1. [如何阅读一本书](https://book.douban.com/subject/1013208/)
 1. [《华尔街日报》是如何写故事的](https://book.douban.com/subject/1472946/)
+1. [故事](https://book.douban.com/subject/25976544/)
 1. [习惯的力量](https://book.douban.com/subject/20507212/)
 1. [瞬变](https://book.douban.com/subject/25828158/)
 1. [高效能人士的7个习惯](https://book.douban.com/subject/5325618/)
 
 ### 有趣的读物
-1. [故事](https://book.douban.com/subject/25976544/)
 1. [我在底层的生活](https://book.douban.com/subject/25900802/)
 1. [被遗忘的士兵](https://book.douban.com/subject/3418938/)
 1. [活着](https://book.douban.com/subject/4913064/)
