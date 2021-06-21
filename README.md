@@ -1,7 +1,7 @@
 ## 下一代图书计划
 这个书单希望收集一系列质量优秀的书籍。筛选的标准是：
 1. 自己完整阅读过，认为确实好。
-2. 认为自己的下一代值得一读的书。（虽然还没有女朋友，但如果这么思考的话，更能够选出经得起时间考验的书籍）
+2. 认为自己的下一代值得一读的书。（虽然还没有女朋友，但是如果这么思考的话，应该有助于选出经得起时间考验的书籍）
 3. 非专业书籍，面向通用领域。
 
 下面是书籍列表：
@@ -13,6 +13,11 @@
 1. [被讨厌的勇气](https://book.douban.com/subject/26369699/)
 1. [一个广告人的自白](https://book.douban.com/subject/1031526/)
 1. [被世界遗忘的天才](https://book.douban.com/subject/4882550/)
+
+### 成为有趣的人
+1. [那些古怪又让人忧心的问题](https://book.douban.com/subject/26364209/)
+1. [如何不切实际地解决实际问题](https://book.douban.com/subject/35048568/)
+1. [别闹了，费曼先生](https://book.douban.com/subject/1037602/)
 
 ### 与他人沟通
 1. [影响力](https://book.douban.com/subject/1786387/)
@@ -58,8 +63,3 @@
 1. [叫魂](https://book.douban.com/subject/10471333/)
 1. [我不是教你诈](https://book.douban.com/subject/4918952/)
 1. [我不知道该说什么，关于死亡还是爱情](https://book.douban.com/subject/25884880/)
-
-### 成为有趣的人
-1. [那些古怪又让人忧心的问题](https://book.douban.com/subject/26364209/)
-1. [如何不切实际地解决实际问题](https://book.douban.com/subject/35048568/)
-1. [别闹了，费曼先生](https://book.douban.com/subject/1037602/)
